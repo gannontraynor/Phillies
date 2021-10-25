@@ -2,7 +2,7 @@
 Hello, welcome to my responce to the Phillies Questionaire for perspective employees. You will find the sorce code used to create my application in here.
 
 # Install 
-To get access to the application click <a href="https://drive.google.com/file/d/1gc9vGKskQiJC9X-tEv9exhSnSDCIN-r_/view?usp=sharing" target="_blank">here</a> and dowload QualOffer.exe the file is too large to put directly in the repo. 
+To get access to the application click <a href="https://drive.google.com/file/d/1gc9vGKskQiJC9X-tEv9exhSnSDCIN-r_/view?usp=sharing" target="_blank">here</a> (right click and open in new tab) and dowload QualOffer.exe the file is too large to put directly in the repo. 
 
 # How to Use
 To run my program simply right click the exe file and select run, you might run into issues with your firewall so I recomeend running the program as administrator. 
